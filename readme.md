@@ -30,7 +30,7 @@ Once you install composer you can check on your terminal or cmd by typing `compo
 
 ### how to install package in composer
 * just go to https://packagist.org/. 
-* Choose a package you want to install and composer package with composer command
+* Choose a package you want to install and copy package name with composer command which can be found near the download icon
 * in terminal paste that command. Voilá thats all. It will install package and added link to `vendor/autoload.php` file
 * to use all package installed by composer I will require only `vendor/autoload.php` file
 
