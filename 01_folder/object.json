@@ -1,0 +1,5 @@
+npm, bower = frontend dependency manager = https://www.npmjs.com/
+package control = sublime dependency manager = https://packagecontrol.io/ pip 
+pip = python
+gem, bundle = ruby
+composer, pear = php

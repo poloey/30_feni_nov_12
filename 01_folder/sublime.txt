@@ -1,0 +1,20 @@
+cmd palate = ctrl + shift + p
+install package controll
+
+
+
+package manager >>
+//
+sidebar enhancement
+emmet
+advanced new file
+
+//php
+php companion
+sublime linter 
+sublime linter php
+
+
+
+
+
